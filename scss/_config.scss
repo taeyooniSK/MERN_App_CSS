@@ -35,7 +35,7 @@ $spaceamounts: (1,2,3,4,5);
     }
     // All around Padding
     .p-#{$space} {
-        padding: #{$space}rem 0;
+        padding: #{$space}rem;
     }
     // Vertical Padding 
     .py-#{$space} {
